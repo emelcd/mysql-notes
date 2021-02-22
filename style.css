@@ -2,4 +2,20 @@
 
 * {
     font-family: "Fira Code", monospace;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+
+.form-container {
+    background-color: grey;
+    width: 200px;
+    margin: 2rem auto;
+
+    font-size: xx-large;
 }
